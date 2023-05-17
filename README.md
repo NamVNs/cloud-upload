@@ -1,2 +1,2 @@
 # cloud-upload
-Cloud upload
+npm install namvns/cloud-upload
